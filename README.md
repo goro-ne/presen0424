@@ -518,6 +518,128 @@ templates/test.md
 This is a new Markdown slide
 ```
 
+
+
+
+---
+
+### deploy serverのインストール
+
+```
+# cd /usr/share/nginx/html
+# git clone https://github.com/hayao56/deploy-server.git
+```
+
+---
+
+### bundlerのインストール
+
+```
+# cd deploy-server
+```
+
+```
+# vim Gemfile
+
+以下を修正
+source 'http://production.s3.rubygems.org'
+#source "https://rubygems.org"
+```
+
+```
+gem install bundler
+```
+
+```
+# vim Gemfile
+
+以下を修正
+#source 'http://production.s3.rubygems.org'
+source "https://rubygems.org"
+```
+
+```
+bundle update
+```
+
+
+---
+
+### Nginx reverse proxy
+
+For CentOS7-nginx in docker container
+
+```
+vim /etc/nginx/conf.d/default.conf
+```
+
+```
+    location /presen0424-webhook {
+        rewrite ^/presen0424-webhook/(.+) /$1 break;
+        proxy_pass http://127.0.0.1:9001;
+    }
+```
+
+```
+# systemctl restart nginx
+```
+
+---
+
+### Settings
+
+```
+vim deploy_worker.rb
+```
+
+```
+HOST = '127.0.0.1'
+PORT = '9001'
+TARGET_DIR = '/usr/share/nginx/html/presen0424'
+```
+
+---
+
+### Run
+
+```
+export PATH=/usr/bin/ruby:$PATH && bundle exec ruby deploy_worker.rb -e production &
+
+[2] 1344
+bash-4.2# [2015-04-14 23:46:24] INFO  WEBrick 1.3.1
+[2015-04-14 23:46:24] INFO  ruby 2.0.0 (2014-11-13) [x86_64-linux]
+== Sinatra (v1.4.6) has taken the stage on 9001 for development with backup from WEBrick
+[2015-04-14 23:46:24] INFO  WEBrick::HTTPServer#start: pid=1345 port=9001
+```
+
+
+---
+
+### GitHubで WebHookの設定
+
+```
+http://115.125.186.10/presen/presen0424-webhook/deploy
+```
+
+
+
+---
+
+### System
+
+```
+       1.Push              2.Webhook
+local -----------> github -----------> deploy_worker.rb
+                     ^                       |
+                     |                       |
+                     +-----------------------+
+                            3. Pull
+```
+
+
+
+
+
 ---
 
 ### スライドの順番を変更
