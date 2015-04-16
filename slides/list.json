@@ -1,11 +1,13 @@
 [
 "introduction.md",
 "solutions.md",
+
+"automation.md",
 "agency.md",
 "food.md",
-"draft-idea.md",
 "entertainment.md",
 "knowledge-management.md",
+
 "wearable.md",
 "realestate.md",
 "fitness.md",
@@ -26,5 +28,7 @@
 "recycle.md",
 "fashion.md",
 "designart.md",
-"automation.md"
+
+"draft-idea.md"
+
 ]
