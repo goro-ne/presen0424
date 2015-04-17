@@ -9,6 +9,37 @@ Available options:
 
  ```--markdown --attributes --notes```
 
+---
+
+```
+ "automation.md",
+ "agency.md",
+ "food.md",
+ "entertainment.md",
+ "knowledge-management.md",
+ "wearable.md",
+ "realestate.md",
+ "fitness.md",
+ "kids.md",
+ "care.md",
+ "advertisting.md",
+ "retail.md",
+ "building.md",
+ "iot.md",
+ "publishing.md",
+ "interior-goods.md",
+ "sales.md",
+ "survice.md",
+ "education.md",
+ "internet.md",
+ "cosmetic.md",
+ "sports.md",
+ "recycle.md",
+ "fashion.md",
+ "designart.md",
+ "solutions.md",
+ "draft-idea.md"
+```
 
  ---
 
