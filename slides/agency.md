@@ -27,10 +27,32 @@ Note: 説明文
 写真１
 http://sbestway.com/s/service.html
 
+---
+
+<div class="title">パートナーマッチングサービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://up.gc-img.net/post_img_web/2013/08/LOAElpyAEcjOYPq)
+</div>
+</div>
+
+<div class="left">
+<li>結婚相手に求めている「特徴」が似ている相手をマップ化し、相手が求めている「特徴」を調べる。
+マッチした場合、お見合いをセッティングする。</li>
+<li>婚期の男性、女性に理想的な相手を紹介することができる。</li>
+<li style="color:orange">販売先：インターネット人材募集、広告掲載サービス</li>
+</div>
+
+</div>
+
+Note: 説明文
+
 
 ---
 
-<div class="title">似ている人物検索サービス <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">顔パターン検索サービス <span style="font-size:20px;">Business plan #</span></div>
 
 <div class="frame">
 <div class="right">
@@ -61,26 +83,3 @@ NEC『顔認証技術活用 マーケティングサービス』
 http://jpn.nec.com/facus/
 株式会社システム・ケイ「顔認識マーケティングサービス」
 http://www.systemk.co.jp/product/systems/facial-marketing.html
-
-
----
-
-<div class="title">パートナーマッチングサービス <span style="font-size:20px;">Business plan #</span></div>
-
-<div class="frame">
-<div class="right">
-<div class="shadow">
-![](http://up.gc-img.net/post_img_web/2013/08/LOAElpyAEcjOYPq)
-</div>
-</div>
-
-<div class="left">
-<li>結婚相手に求めている「特徴」が似ている相手をマップ化し、相手が求めている「特徴」を調べる。
-マッチした場合、お見合いをセッティングする。</li>
-<li>婚期の男性、女性に理想的な相手を紹介することができる。</li>
-<li style="color:orange">販売先：インターネット人材募集、広告掲載サービス</li>
-</div>
-
-</div>
-
-Note: 説明文
