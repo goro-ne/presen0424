@@ -1,7 +1,6 @@
-##  Sensor Network
+##  Store Retairing
 
-ワイアレス・センサーネットワーク
-
+ショップ販売
 
 ---
 
@@ -18,7 +17,7 @@
 ![](images/estimote.jpg)
 </span>
 <span style="float:right;width:40%;">
-![](images/mobile-pay.png)
+![](images/square.jpg)
 </span>
 </div>
 
@@ -41,26 +40,3 @@ http://www.gizmodo.jp/2014/08/ibeacon_1.html
 
 Square、Coiney、PayPal、楽天。モバイル決済4サービスを比較
 http://weekly.ascii.jp/elem/000/000/161/161047/
-
-
----
-
-<div class="title">システム <span style="font-size:20px;">Business plan #</span></div>
-
-<div class="frame">
-<div class="right">
-<div class="shadow">
-![](images/airbeacon.png)
-</div>
-</div>
-
-<div class="left">
-<li>簡略説明：</li>
-<li></li>
-<li style="color:orange">販売先：</li>
-<li style="color:green">競合：多数</li>
-</div>
-
-</div>
-
-Note: 説明文

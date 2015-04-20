@@ -4,7 +4,7 @@
 
 ---
 
-<div class="title">お菓子レビューアプリ <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">お菓子レビューアプリ</div>
 
 <div class="frame">
 <div class="right">
@@ -39,32 +39,33 @@ http://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%
 
 ---
 
-<div class="title">3Dポージングガチャ <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">3Dプリンター・ガチャ</div>
 
 <div class="frame">
 <div class="right">
 <div class="shadow">
 ![](http://i.meet-i.com/wp-content/uploads/fuchisaaaad.png)
 </div>
+<br>
 <div class="shadow">
-![](https://www.mutoh.co.jp/products/3d/projet_4500/images/img_01.jpg)
+![](images/sg-onepi.jpg)
 </div>
 
 </div>
-
 
 <div class="left">
-<li>100円でくじを引いて3Dモデルを購入、スマホアプリで自由にポーズを決めて、何回でも追加100円で3Dプリンターでフィギュアを作成できる。</li>
-<li>商品はビッグデータ在庫を持つ必要がないため、商品スペースが狭いコンビニエンスストアで展開できる。</li>
-<li style="color:orange">販売先：自社運営サービス、コンビニエンスストア</li>
-<li style="color:green">関連技術：材料のフィラメントのABS(1kg)3,480円、PLA(1kg)3,980円</li>
-http://domore.shop-pro.jp/?pid=88278873
+<li>LINEスタンプのように、個人のクリエーターが3Dのプラモデルのモデリングデータをコンビニくじとして販売できるサービス<br>
+（くじ１回100円、3Dプリント700円）</li>
+<li>欲しい商品を確定すると、ビッグデータ解析によりハズレを含む「ボックスくじ」が自動で生成される。</li>
+<li>個人がネットから製作したオリジナルのモデリングデータを登録、審査のあと、コンビニくじとして販売することを想定。</li>
+<li style="color:orange">販売先：コンビニエンスストア、ホビーショップなど商品スペースが狭いコンビニエンスストアで展開できる。</li>
+<li style="color:green">販売元の利益40%還元、コンビニ管理手数料30%、3Dプリンターリース+サーバ維持費/販売代行手数料30%を想定。</li>
 </div>
-
 
 </div>
 
 Note: 説明文
+関連技術：材料のフィラメントのABS(1kg)3,480円、PLA(1kg)3,980円
 
 カテゴリ：3Dプリンター
 製品名：The Micro（ザ・マイクロ）

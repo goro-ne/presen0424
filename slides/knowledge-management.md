@@ -4,7 +4,7 @@
 
 ---
 
-<div class="title">逆引き知恵袋サービス <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">逆引き知恵袋（知見者検索システム）</div>
 
 <div class="frame">
 <div class="right">

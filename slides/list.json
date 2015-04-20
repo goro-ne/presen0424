@@ -1,8 +1,10 @@
 [
     "introduction.md",
-    "customers-support.md",
-    "realestate.md",
-    "knowledge-management.md",
     "agency.md",
-    "sensor-network.md"
+    "communication.md",
+    "realestate.md",
+    "store-retairing.md",
+    "knowledge-management.md",
+    "advertisting.md",
+    "food.md"
 ]

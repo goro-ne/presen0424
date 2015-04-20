@@ -1,10 +1,9 @@
-##  Customers Support
-
-顧客対応
+## Communication
+コミュニケーション、応対サービス
 
 ---
 
-<div class="title">セミナー・会議受付システム <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">セミナー・会議受付システム</span></div>
 
 <div class="frame">
 <div class="right">
@@ -35,7 +34,7 @@ http://pc.watch.impress.co.jp/docs/news/20140320_640547.html
 
 ---
 
-<div class="title">自動電話応対システム <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">コールセンター・自動電話応対システム</div>
 
 <div class="frame">
 <div class="right">

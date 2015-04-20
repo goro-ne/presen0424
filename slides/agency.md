@@ -5,7 +5,7 @@
 
 ---
 
-<div class="title">紹介人材のマッチングサービス <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">紹介人材のマッチングサービス</div>
 
 <div class="frame">
 <div class="right">
@@ -29,7 +29,7 @@ http://sbestway.com/s/service.html
 
 ---
 
-<div class="title">パートナーマッチングサービス <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">パートナーマッチングサービス</div>
 
 <div class="frame">
 <div class="right">
@@ -52,7 +52,7 @@ Note: 説明文
 
 ---
 
-<div class="title">顔パターン検索サービス <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">顔パターン検索サービス</div>
 
 <div class="frame">
 <div class="right">

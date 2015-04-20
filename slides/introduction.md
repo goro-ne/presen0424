@@ -1,44 +1,4 @@
 
-
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/rkVTYYOAWtY?rel=0&hd=1&showinfo=0&theme=light&autohide=1" frameborder="0" allowfullscreen></iframe>
-
-
-Note:
-
-"introduction.md",
-"solutions.md",
-"robots.md",
-"agency.md",
-"food.md",
-"draft-idea.md",
-"entertainment.md",
-"knowledge-management.md",
-"wearable.md",
-"realestate.md",
-"fitness.md",
-"kids.md",
-"care.md",
-"advertisting.md",
-"retail.md",
-"building.md",
-"iot.md",
-"publishing.md",
-"interior-goods.md",
-"sales.md",
-"survice.md",
-"education.md",
-"internet.md",
-"cosmetic.md",
-"sports.md",
-"recycle.md",
-"fashion.md",
-"designart.md",
-"automation.md"
-
-
-
----
-
 <div style="virtical-align:middle;height:500px;background-size:100%;background-image:url('images/tree-universe.jpg');
 ">
 <div style="width:100%;height:100%;background-color: rgba(100, 100, 100, 0.3);">
@@ -135,18 +95,24 @@ Note: 説明文
 <div style="text-align:center;">
 <p>継続してサイバネット社にて UXを改良中（担当 中村）</p>
 <img style="width:10%;height:auto;" src="images/taiga-face.png">
-<img style="width:80%;height:auto;" src="images/bigdata-viewer-image.png">
+<img style="width:80%;height:auto;" src="images/bigdata-viewer-image-new.png">
 </div>
 
 Note: 説明文
 研修風景
 
+---
+
+<div class="title">ビッグデータで何ができるか</div>
+
+<p style="font-size:40px;color:orange;">①センサーと組み合わせると自動でデータを収集して<br>現実世界を認識する。</p>
+<br>
+<p style="font-size:40px;color:pink;">②人工知能、機械学習を組み合わせることで<br>人間の代わりができる。  
+<p style="color:pink;">（10年以内に約半分の職業は、機械に置き換わる予測がある）</p>
+</p>
+<br>
+<p style="font-size:40px;color:yellow;">③人間にも見えてないデータの関係性を<br>見つけられる可能性がある。</p>
 
 ---
 
-<div class="title">今後の展開</div>
-
-<div style="text-align:left;">
-<p>・各種業種での分析方法 etc...</p>
-<p>・マトリックス</p>
-</div>
+<div class="title">今後の展開について</div>

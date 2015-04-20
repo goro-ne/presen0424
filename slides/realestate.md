@@ -5,7 +5,7 @@
 
 ---
 
-<div class="title">お部屋コンシェルジュ <span style="font-size:20px;">Business plan #</span></div>
+<div class="title">お部屋コンシェルジュ（よろず相談役サービス）</div>
 
 <div class="frame">
 <div class="right">
