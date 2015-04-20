@@ -1,6 +1,6 @@
-##  Store Retairing
+##  Store Retailing
 
-ショップ販売
+ショップ販売、小売
 
 ---
 
