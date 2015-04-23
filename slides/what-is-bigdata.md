@@ -1,11 +1,11 @@
 
-<div class='movieframe'>
+<div class='movieframe' style="width:1000px;">
 <video src="images/jewellery.mov" autoplay loop controls>
   <img src="http://webcreatorbox.com/sample/images/jewellery.jpg" alt="Placeholder">
 </video>
-<div style="left:0px;top:50px;font-size:60px;">BIGDAT@Viewer™</div>
-<div style="position:absolute;left:0px;top:150px;font-size:50px;">プロトタイプが</div>
-<div style="position:absolute;left:0px;top:220px;font-size:50px;">完成しました！</div>
+<div style="left:200px;top:150px;font-size:60px;">BIGDAT@Viewer™</div>
+<div style="position:absolute;left:100px;top:250px;font-size:50px;">プロトタイプが完成しました！</div>
+<div style="position:absolute;left:0px;top:220px;font-size:50px;"></div>
 </div>
 
 
