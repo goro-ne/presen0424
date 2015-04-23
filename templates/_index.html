@@ -69,6 +69,34 @@
           background: #fff;
           border: 1px solid #f0f0f0;
         }
+
+        # Movie
+        div .movieframe {
+          width: 700px;
+          position:relative;
+          background-color:#000;
+        }
+        .movieframe div {
+          position:absolute;
+          text-shadow: 2px 2px 1px #111,
+                      -2px 2px 1px #111,
+                       2px -2px 1px #111,
+                      -2px -2px 1px #111;
+          opacity: 0.9
+          padding : 0px 0px 0px 0px;
+          line-height: 110%;
+          z-index: 3;
+        }
+        .movieframe video {
+          height: 500px;
+          z-index: 1;
+        }
+        .movieframe img {
+          height: 500px;
+          z-index: 2;
+        }
+
+
         </style>
 
     </head>

@@ -1,4 +1,5 @@
 [
+    "what-is-bigdata.md",
     "introduction.md",
     "agency.md",
     "communication.md",
@@ -6,5 +7,6 @@
     "store-retailing.md",
     "knowledge-management.md",
     "advertisting.md",
-    "food.md"
+    "food.md",
+    "hobby.md"
 ]
