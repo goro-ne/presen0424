@@ -22,7 +22,7 @@
 ATGSとして３社合同で『新規事業』を立ち上げ</div>
 
 <div style="color:yellow;left:0px;top:450px;width:1000px;font-size:40px;">
-ビッグデータ可視化エンジン(toorPIa)の<br>開発体制づくりに着手！</div>
+ビッグデータ可視化エンジン(toorPIA)の<br>開発体制づくりに着手！</div>
 
 </div>
 
@@ -57,7 +57,7 @@ ATGSとして３社合同で『新規事業』を立ち上げ</div>
 ---
 
 <div class='movieframe'>
-<img src="images/maids-robot.jpg" />
+<img src="images/maids-robot.jpg?ver=1" />
 
 <div style="color:White;left:-20px;top:450px;width:1000px;font-size:40px;">
 一家に一台、『ロボット』で実現します</div>
