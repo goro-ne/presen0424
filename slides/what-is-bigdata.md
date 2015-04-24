@@ -1,13 +1,13 @@
-
-<div class='movieframe' style="width:1000px;">
+<div style="width:1000px;background-color:#000;">
+<div class='movieframe'>
 <video src="images/jewellery.mov" autoplay loop controls>
   <img src="http://webcreatorbox.com/sample/images/jewellery.jpg" alt="Placeholder">
 </video>
-<div style="left:200px;top:150px;font-size:60px;">BIGDAT@Viewer™</div>
-<div style="position:absolute;left:100px;top:250px;font-size:50px;">プロトタイプが完成しました！</div>
+<div style="left:230px;top:150px;font-size:60px;">BIGDAT@Viewer™</div>
+<div style="position:absolute;left:150px;top:250px;font-size:50px;">プロトタイプが完成しました！</div>
 <div style="position:absolute;left:0px;top:220px;font-size:50px;"></div>
 </div>
-
+</div>
 
 ---
 
@@ -15,6 +15,7 @@
 
 ---
 
+<div style="width:1000px;background-color:#000;">
 <div class='movieframe'>
 <img src="images/corabo-image.png" style="border:0;" />
 
@@ -23,7 +24,7 @@ ATGSとして３社合同で『新規事業』を立ち上げ</div>
 
 <div style="color:yellow;left:0px;top:450px;width:1000px;font-size:40px;">
 ビッグデータ可視化エンジン(toorPIA)の<br>開発体制づくりに着手！</div>
-
+</div>
 </div>
 
 
@@ -42,12 +43,13 @@ ATGSとして３社合同で『新規事業』を立ち上げ</div>
 
 ---
 
+<div style="width:1000px;background-color:#000;">
 <div class='movieframe'>
 <img src="images/maids.jpg" />
 
-<div style="color:white;left:-20px;top:400px;width:1000px;font-size:40px;">
+<div style="color:white;left:0px;top:400px;width:1000px;font-size:40px;">
 あなたの自宅にメイドや執事がいる<br>リッチな生活を想像してみてください</div>
-
+</div>
 </div>
 
 ---
@@ -56,23 +58,24 @@ ATGSとして３社合同で『新規事業』を立ち上げ</div>
 
 ---
 
+<div style="width:1000px;background-color:#000;">
 <div class='movieframe'>
 <img src="images/maids-robot.jpg?ver=1" />
 
-<div style="color:White;left:-20px;top:450px;width:1000px;font-size:40px;">
-一家に一台、『ロボット』で実現します</div>
-
+<div style="color:White;left:0px;top:450px;width:1000px;font-size:40px;">
+一家に一台『ロボット』で実現します</div>
 </div>
-
+</div>
 
 ---
 
+<div style="width:1000px;background-color:#000;">
 <div class='movieframe'>
 <img src="images/steave-jobs.jpg" />
 
-<div style="color:Yellow;left:160px;top:410px;width:700px;font-size:50px;">
+<div style="color:Yellow;left:170px;top:410px;width:700px;font-size:50px;">
 そう、ビッグデータならね。</div>
-
+</div>
 </div>
 
 Note:
