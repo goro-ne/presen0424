@@ -29,7 +29,7 @@ Note: 説明文
 
 ---
 
-<div class="title">プロトタイプ開発が成功させるために、どうしたか？</div>
+<div class="title">プロトタイプ開発を成功させるために、どうしたか？</div>
 
 ---
 
@@ -95,7 +95,7 @@ Note:
 ---
 
 
-<div class="title">Bigdata Viewer™ プロトタイプ版</div>
+<div class="title">BIGDAT@Viewer™ プロトタイプ版</div>
 
 <p>ATGSで設計/開発を行い、C社に納品済み（担当 早川）</p>
 <div style="text-align:center;">
@@ -106,7 +106,7 @@ Note:
 
 ---
 
-<div class="title">Bigdata Viewer™ 製品版</div>
+<div class="title">BIGDAT@Viewer™ 製品版</div>
 
 <div style="text-align:center;">
 <p>継続してサイバネット社にて UXを改良中（担当 中村）</p>
